@@ -1,0 +1,12 @@
+{
+  "name": "nasa-lunar-south-pole-navigator",
+  "version": "2.1.0",
+  "private": true,
+  "description": "Lunar south-pole navigator with NASA/JPL and OpenAI/Gemini server APIs",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
